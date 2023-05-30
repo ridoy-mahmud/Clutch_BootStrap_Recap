@@ -1,0 +1,14 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.image-resize {
+    max-width: 1381.09px;
+    max-height: 684.47px;
+}
+
+.line {
+    border-top: 2px solid #8c8b8b;
+    max-width: 75%;
+    margin: auto;
+}
